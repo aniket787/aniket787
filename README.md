@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket😊</h1>
 <h3 align="center">A passionate frontend developer and problem solver</h3>
 
-<img align="right" alt="coding" width="330" src="https://user-images.githubusercontent.com/76443901/230645777-92e97c35-171b-481e-97c7-d6e72b72c442.png">
+<img align="right" alt="coding" width="330" src="https://user-images.githubusercontent.com/76443901/230649305-49beb43c-cadb-4479-b959-596503880581.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket787&label=Profile%20views&color=0e75b6&style=flat" alt="aniket787" /> </p>
 
