@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket😊</h1>
-<h3 align="center">A passionate frontend developer and problem solver</h3>
+<h3 align="center">A passionate Frontend developer and problem solver.</h3>
 
 <img align="right" alt="coding" width="330" src="https://user-images.githubusercontent.com/76443901/230649305-49beb43c-cadb-4479-b959-596503880581.png">
 
